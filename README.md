@@ -1,7 +1,7 @@
 # hi, i am jorge 👋  
 
 ![GIF](https://i.gifer.com/53FX.gif)  
-![GIF2](https://tenor.com/pt-BR/view/yetopen-gif-27266616)
+![GIF2]()
 **security**  
 **IA development**  
 **Python, css, html, JS**  
