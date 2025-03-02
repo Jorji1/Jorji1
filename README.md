@@ -1,6 +1,6 @@
 # hi, i am jorge 👋  
 
-![GIF](https://images.app.goo.gl/6imw2kkDwxDSZx9k9.gif)  
+![GIF](https://i.gifer.com/3uB6.gif)  
 
 **security**  
 **IA development**  
