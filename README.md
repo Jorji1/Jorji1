@@ -1,16 +1,15 @@
-## Hi there 👋
+# hi, i am jorge 👋  
 
-<!--
-**Jorji1/Jorji1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Coding GIF](https://images.app.goo.gl/6imw2kkDwxDSZx9k9)  
 
-Here are some ideas to get you started:
+**security**  
+**IA development**  
+**Python, css, html, JS**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what i know for now:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+)
+
+## ⚡ Estatísticas do GitHub:
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
+
