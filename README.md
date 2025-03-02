@@ -8,7 +8,7 @@
 
 ## what i know for now:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-)
+
 
 ## ⚡ Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark)  
