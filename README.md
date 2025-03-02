@@ -1,7 +1,7 @@
 # hi, i am jorge 👋  
 
-![GIF](https://i.gifer.com/3uB6.gif)  
-
+![GIF](https://i.gifer.com/53FX.gif)  
+![GIF2](https://www.deviantart.com/fametsuri/art/Arch-Ascii-art-593307488.gif)
 **security**  
 **IA development**  
 **Python, css, html, JS**  
