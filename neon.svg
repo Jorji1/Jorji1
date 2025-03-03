@@ -1,7 +1,7 @@
 <svg width="135%" height="200" xmlns="http://www.w3.org/2000/svg">
   <rect width="150%" height="150%" fill="fffff#"/>
   <text x="50%" y="50%" fill="cyan" font-size="50" font-family="Arial" text-anchor="middle">
-    Joji, AIdevelopment, creating a hacking tool, asking for support and also creating an open-all community for INFOsec and pentesting dev
+    Joji
     <animate attributeName="fill" values="cyan;magenta;lime;cyan" dur="2s" repeatCount="indefinite"/>
   </text>
 </svg>
