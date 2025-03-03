@@ -1,9 +1,10 @@
 # hi, i am jorge 👋  
 <h1 align="center">
   <a href="https://github.com/jorji1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome_to_my_github_acc!;ToolDev_and_working_for_infosec">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil;Infosec">
   </a>
 </h1>
+
 
 ![GIF](https://i.gifer.com/53FX.gif)  
 
