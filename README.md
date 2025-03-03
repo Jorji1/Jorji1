@@ -1,7 +1,7 @@
 # hi, i am jorge 👋  
 <h1 align="center">
   <a href="https://github.com/jorji1">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Bem+vindo+ao+meu+perfil;Infosec">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=hi+welcome+to+my+profile!;Infosec+IAdev!">
   </a>
 </h1>
 
