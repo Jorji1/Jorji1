@@ -5,6 +5,8 @@
   </a>
 </h1>
 <img src="https://raw.githubusercontent.com/jorji1/jorji1/main/stars.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/jorji1/jorji1/main/waves.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/jorji1/jorji1/main/.svg" width="100%" />
 
 
 
