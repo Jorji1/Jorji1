@@ -1,4 +1,9 @@
 # hi, i am jorge 👋  
+<h1 align="center">
+  <a href="https://github.com/jorji1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome_to_my_github_acc!;ToolDev_and_working_for_infosec">
+  </a>
+</h1>
 
 ![GIF](https://i.gifer.com/53FX.gif)  
 
@@ -6,8 +11,6 @@
 **IA development**  
 **Python, css, html, JS**  
 
-![Spotify](https://novatorem.vercel.app/api/spotify)
- 
 ## what i know for now:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
