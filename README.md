@@ -4,7 +4,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=hi+welcome+to+my+profile!;Infosec+Cybersecurity;+Kali;AIdev!">
   </a>
 </h1>
-<img src="download.gif" width="100%" />
+<img src="https://raw.githubusercontent.com/seu-usuario/seu-repo/main/wave.svg" width="100%" />
+
+
 
 
 ![GIF](https://i.gifer.com/53FX.gif)  
